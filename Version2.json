@@ -1,0 +1,142 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
+	"promos": {
+		"1.17.1-latest": "7.0.2",
+		"1.17.1-recommended": "7.0.2",
+		"1.16.5-latest": "6.4.7",
+		"1.16.5-recommended": "6.4.7",
+		"1.16.4-latest": "1.16-6.2.5",
+		"1.16.4-recommended": "1.16-6.2.5",
+		"1.16.3-latest": "1.16-6.2.5",
+		"1.16.3-recommended": "1.16-6.2.5",
+		"1.16.1-latest": "5.0.2",
+		"1.16.1-recommended": "5.0.2",
+		"1.15.2-latest": "4.6.0",
+		"1.15.2-recommended": "4.6.0",
+		"1.15.1-latest": "4.2.2",
+		"1.15.1-recommended": "4.2.2",
+		"1.14.4-latest": "4.3.6",
+		"1.14.4-recommended": "4.3.6",
+		"1.14.3-latest": "3.7.1",
+		"1.14.3-recommended": "3.7.1",
+		"1.14.2-latest": "3.6.2",
+		"1.14.2-recommended": "3.6.2",
+		"1.13.2-latest": "3.5.2",
+		"1.13.2-recommended": "3.5.2",
+		"1.12.2-latest": "4.4.6",
+		"1.12.2-recommended": "4.4.6",
+		"1.12.1-latest": "2.9.9",
+		"1.12.1-recommended": "2.9.9",
+		"1.11.2-latest": "2.9.0.1",
+		"1.11.2-recommended": "2.9.0.1",
+		"1.10.2-latest": "2.9.4",
+		"1.10.2-recommended": "2.9.4",
+		"1.9.4-latest": "1.4.1",
+		"1.9.4-recommended": "1.4.1",
+		"1.8.9-latest": "1.4.1",
+		"1.8.9-recommended": "1.4.1"
+	},
+	"1.17.1": {
+		"7.0.2": "combine in inventory & fixes",
+		"7.0.1": "improvements & fixes",
+		"7.0.0": "first beta"
+	},
+	"1.16.5": {
+		"6.4.7": "rebalancing",
+		"6.4.6": "configs, tweak & update apis",
+		"6.4.5": "fixes",
+		"6.4.4": "improvements",
+		"6.4.3": "improvements",
+		"6.4.2": "compat FirstAid & advancements",
+		"6.4.1": "a bunch of new advancements",
+		"6.4.0": "2 enchantments & fix for command tbrecovery",
+		"6.3.8": "compatibilities & fix scroll of reach",
+		"6.3.6": "improvements",
+		"6.3.5": "ukrainian lang, auto-equip, compat & drop",
+		"6.3.4": "compatibilities",
+		"6.3.3": "configs & improvements"
+	},
+	"1.16.4": {
+		"1.16-6.2.5": "final version"
+	},
+	"1.16.3": {
+		"1.16-6.2.5": "final version"
+	},
+	"1.16.1": {
+		"5.0.2": "final version"
+	},
+	"1.15.2": {
+		"4.6.0": "final version"
+	},
+	"1.15.1": {
+		"4.2.2": "final version"
+	},
+	"1.14.4": {
+		"4.3.6": "final version"
+	},
+	"1.14.3": {
+		"3.7.1": "final version"
+	},
+	"1.14.2": {
+		"3.6.2": "final version"
+	},
+	"1.13.2": {
+		"3.5.2": "final version"
+	},
+	"1.12.2": {
+		"4.4.6": "fix Shadow Walker",
+		"4.4.5": "rebalancing",
+		"4.4.4": "perk Shadow Walker, lost tablet of exploration & improvements",
+		"4.4.3": "new advancements & 2 enchantments",
+		"4.4.2": "compatibilities & fix familiar receptacle",
+		"4.4.1": "improvements & fix 4.4.0",
+		"4.4.0": "disableable items, configs, perk Tomb Raider",
+		"4.3.0": "2 grave models, config, bone needle & familiar receptacle drop",
+		"4.2.0": "improved commands related to graves, config & fixes"
+	},
+	"1.12.1": {
+		"2.9.9": "final version"
+	},
+	"1.11.2": {
+		"2.9.0.1": "final version"
+	},
+	"1.10.2": {
+		"2.9.4": "final version"
+	},
+	"1.9.4": {
+		"1.4.1": "final version"
+	},
+	"1.8.9": {
+		"1.4.1": "final version"
+	}
+	"a": {
+		"2.9.9": "final version"
+	},
+	"asd": {
+		"2.9.0.1": "final version"
+	},
+	"12323": {
+		"2.9.4": "final version"
+	},
+	"432424": {
+		"1.4.1": "final version"
+	},
+	"gfsdfsdf": {
+		"1.4.1": "final version"
+	}
+	"908uihyjbn": {
+		"2.9.9": "final version"
+	},
+	"e465rftyghbj": {
+		"2.9.0.1": "final version"
+	},
+	"-9uioh": {
+		"2.9.4": "final version"
+	},
+	"bkhkhijutg687yu": {
+		"1.4.1": "final version"
+	},
+	"csadllll": {
+		"1.4.1": "final version"
+	}
+}
